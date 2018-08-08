@@ -25,5 +25,5 @@ def add_colors
   
   rainbow_colors.push("green")
   rainbow_colors.push("blue")
-  push rainbow_colors
+  return rainbow_colors
 end
